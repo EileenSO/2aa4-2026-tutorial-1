@@ -1,4 +1,6 @@
-# Sample source code repository
+# Sample source code repository - Eileen
+SonarQube Markdown:
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EileenSO_2aa4-2026-tutorial-1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=EileenSO_2aa4-2026-tutorial-1)
 
 - Course: SFWRENG 2AA4
 - Tutorial: T01
