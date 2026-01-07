@@ -1,1 +1,1 @@
-print("Hello, World!")
+print("\nHello, World!\n Who wants to keep reading the book?\n")
